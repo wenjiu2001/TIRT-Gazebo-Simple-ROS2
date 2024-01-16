@@ -26,7 +26,7 @@ The "tirt_gazebo_ros2" ROS2 package is crafted with the objective of facilitatin
 
 ## Install and Build
 
-1. Navigating to the "src" directory within your catkin workspace :
+1. Navigating to the "src" directory within your workspace :
    ```
    cd ~/dev_ws/src
    ```
