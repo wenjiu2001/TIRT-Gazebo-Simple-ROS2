@@ -62,7 +62,7 @@ Adjustments can be made by modifying the following parameters:
    ```
 2. Launch Simulation World :
    ```
-   roslaunch tirt_gazebo_ros2 turtlebot3_tirt.launch
+   ros2 launch tirt_gazebo_ros2 turtlebot3_tirt.launch.py
    ```
    
 ## References

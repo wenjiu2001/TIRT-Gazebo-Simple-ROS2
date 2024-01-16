@@ -62,7 +62,7 @@
    ```
 2. 启动仿真世界：
    ```
-   roslaunch tirt_gazebo_ros2 turtlebot3_tirt.launch
+   ros2 launch tirt_gazebo_ros2 turtlebot3_tirt.launch.py
    ```
    
 ## 参考资料

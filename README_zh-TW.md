@@ -62,7 +62,7 @@
    ```
 2. 啟動模擬世界：
    ```
-   roslaunch tirt_gazebo_ros2 turtlebot3_tirt.launch
+   ros2 launch tirt_gazebo_ros2 turtlebot3_tirt.launch.py
    ```
    
 ## 參考資料
